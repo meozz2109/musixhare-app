@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBg">#E5E9F0</color>
+    <color name="colorDefaultButton">#EDEDED</color>
+    <color name="colorBackground">#3B5999</color>
+    <color name="colorButtonLogIn">#4F69A2</color>
+    <color name="colorTextFieldForeground">#9DA2AD</color>
+    <color name="colorBackgroundDrib1">#37474F</color>
+    <color name="colorBackgroundDrib1Layer1">#009688</color>
+    <color name="colorBackgroundDrib1Layer2">#FFC107</color>
+    <color name="colorTextFieldDrib1">#B6B6B6</color>
+    <color name="colorForgotPassDrib1">#777F89</color>
+    <color name="colorButtonSignInBackgroundDrib1">#03A9F4</color>
+    <color name="colorBackgroundNew">#000</color>
+    <color name="colorGray">#B3B3B3</color>
+    <color name="colorDark">#232323</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorButtonLogInPressed">#4F7BA2</color>
+    <color name="colorDarkGray">#2B2B2</color>
+</resources>

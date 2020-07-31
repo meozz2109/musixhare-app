@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/d_10" />
+            <solid android:color="@color/colorButtonLogIn" />
+        </shape>
+
+    </item>
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/d_10" />
+            <solid android:color="@color/colorButtonLogInPressed" />
+        </shape>
+    </item>
+    <item android:drawable="@drawable/round_log_in_btn"></item>
+</selector>
