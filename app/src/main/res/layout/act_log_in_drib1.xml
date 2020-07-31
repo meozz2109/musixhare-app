@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackgroundDrib1"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="175dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="170dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/bg_btn_state"
+        android:fontFamily="@font/rubik"
+        android:text="@string/drib1_sign_in_button"
+        android:textColor="@color/colorDefaultButton"
+        android:textSize="20sp"
+        android:textStyle="normal" />
+
+    <EditText
+        android:id="@+id/edit_text_password"
+        android:layout_width="285dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/round_edit_text"
+        android:hint="@string/drib1_pass"
+        android:inputType="textPassword"
+        android:padding="5dip"
+        android:textColor="@color/colorTextFieldDrib1"
+        android:textColorHint="@color/colorGray" />
+
+    <EditText
+        android:id="@+id/edit_text_email_phone"
+        android:layout_width="285dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/round_edit_text"
+        android:hint="@string/drib1_email"
+        android:inputType="textCapWords|textEmailAddress"
+        android:padding="5dip"
+        android:textColor="@color/colorTextFieldDrib1"
+        android:textColorHint="@color/colorGray" />
+
+    <LinearLayout
+        android:id="@+id/img_flat_design_figma"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/act_login_drib1"
+        android:orientation="horizontal"></LinearLayout>
+
+    <TextView
+        android:id="@+id/text_view_facebook"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="80dp"
+        android:fontFamily="@font/prompt"
+        android:text="@string/drib1_lbl_main"
+        android:textAlignment="center"
+        android:textColor="@color/colorDefaultButton"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/edit_text_forgot_password"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginStart="225dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/rubik"
+        android:text="@string/drib1_forgot_pass"
+        android:textAlignment="center"
+        android:textColor="@color/color_state"
+        android:textSize="15sp" />
+
+</LinearLayout>

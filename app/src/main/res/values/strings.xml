@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MusixTracks</string>
+    <string name="welcome">Welcome</string>
+    <string name="musix">Musix</string>
+    <string name="tracks">Tracks</string>
+    <string name="lbl_main">facebook</string>
+    <string name="tf_email_phone">Email or phone number</string>
+    <string name="tf_password">Password</string>
+    <string name="btn_log_in">Log In</string>
+    <string name="sign_up">Sign Up for Facebook</string>
+    <string name="need_help">Need Help?</string>
+    <string name="drib1_lbl_main">Welcome</string>
+    <string name="drib1_email">Email</string>
+    <string name="drib1_pass">Password</string>
+    <string name="drib1_forgot_pass">Forgot password?</string>
+    <string name="drib1_sign_in_button">Sign In</string>
+    <string name="drib1_sign_up_button">Sign up</string>
+</resources>
